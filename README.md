@@ -1,1 +1,3 @@
-count
+```
+npm run test
+```
